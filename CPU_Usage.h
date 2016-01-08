@@ -1,5 +1,6 @@
 /******************************************************
-    CPU_Usage Library V1.0  Ian Weston  15.06.2014
+    CPU_Usage Library V1.0   Ian Weston  15.06.2014
+    CPU_Usage Library V1.01  Ian Weston  08.01.2016
     
 A very lightweight tool for calculating the CPU usage
 of the mbed micro. Based in the time domain, this will
