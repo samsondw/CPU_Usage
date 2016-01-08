@@ -61,7 +61,7 @@ uint8_t CPU_Usage::update(void) {
 // use this function instead of wait() to exclude CPU wait processing from the value.
 void CPU_Usage::delay(float duration) {
     this->stopped();
-    wait(0.25);
+    wait(duration);
     this->working();
     }
 
